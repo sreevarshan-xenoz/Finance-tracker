@@ -18,7 +18,7 @@ Welcome to the **Finance Tracker** project! This web application serves as your 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/finance-tracker.git
+   git clone https://github.com/sreevarshan-xenoz/finance-tracker.git
    cd finance-tracker
 pip install Flask
 
